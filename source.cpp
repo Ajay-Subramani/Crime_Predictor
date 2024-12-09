@@ -1,3 +1,6 @@
+// source code with out gui
+//it show output on console
+
 #include <iostream>
 #include <vector>
 #include <cmath>
