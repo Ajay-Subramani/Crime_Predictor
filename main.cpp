@@ -1,3 +1,5 @@
+// source code with gui
+
 #include <FL/Fl.H>
 #include <FL/Fl_Button.H>
 #include <FL/Fl_File_Chooser.H>
